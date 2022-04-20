@@ -14,6 +14,25 @@ body {
   margin-left: 1em;
 }
 
+.pageColumns {
+  display: flex;
+}
+
+.leftImageColumn {
+  display: flex;
+  flex-direction: column;
+  width: 25%;
+}
+
+.middleContentColumn {
+  width: 50%;
+}
+
+.rightInfoColumn {
+  width: 25%;
+  background-color: rgb(216, 172, 27);
+}
+
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: rgb(0, 0, 0);
