@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
   width: 75%;
   margin: 0 auto;
@@ -31,6 +35,7 @@ body {
 .rightInfoColumn {
   width: 25%;
   background-color: rgb(216, 172, 27);
+  padding: 1em;
 }
 
 /* Add a black background color to the top navigation */
