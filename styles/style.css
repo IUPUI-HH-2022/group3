@@ -46,9 +46,10 @@ footer {
 
 .rightInfoColumn {
   width: 25%;
+  height: fit-content;
+  min-height: 10em;
   background-color: rgb(216, 172, 27);
   padding: 1em;
-  margin-bottom: 15em;
 }
 
 /* Add a black background color to the top navigation */
