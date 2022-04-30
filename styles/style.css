@@ -41,12 +41,14 @@ footer {
 
 .middleContentColumn {
   width: 50%;
+  padding: 0em 1em;
 }
 
 .rightInfoColumn {
   width: 25%;
   background-color: rgb(216, 172, 27);
   padding: 1em;
+  margin-bottom: 15em;
 }
 
 /* Add a black background color to the top navigation */
@@ -94,6 +96,10 @@ footer {
   width: 33.3%;
   margin-bottom: 16px;
   padding: 0 8px;
+}
+
+.imgSizeLimiter {
+  max-width: 100%;
 }
 
 /* Display the columns below each other instead of side by side on small screens */
