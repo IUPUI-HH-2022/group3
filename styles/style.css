@@ -87,6 +87,7 @@ footer {
 .topnav a.active {
 
   color: rgb(216, 172, 27);
+  text-decoration-line: underline;
 }
 
 /* Hide the link that should open and close the topnav on small screens */
