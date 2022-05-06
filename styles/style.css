@@ -12,6 +12,7 @@ footer {
   padding: 3px;
   background-color: black;
   color: white;
+  margin-top: 1.5em;
 }
 
 .pageHeader {
@@ -23,6 +24,7 @@ footer {
   color: white;
   align-self: flex-end;
   margin-left: 1em;
+  margin-right: 2em;
   padding: 0.5em;
   border-radius: .25em;
   font-weight: 500;
@@ -180,9 +182,10 @@ footer {
     width: 100%;
   }
 
-  /* set to full width on vertical layout. */
+  /* set to full width on vertical layout and slightly space it away from the main text content. */
   .rightInfoColumn {
     width: 100%;
+    margin-top: 0.5em;
   }
 }
 
