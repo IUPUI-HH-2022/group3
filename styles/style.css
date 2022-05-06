@@ -164,7 +164,7 @@ footer {
   background-color: #555;
 }
 
-.card {
+.container1 {
   position: relative;
   width: 50%;
 }
@@ -187,12 +187,12 @@ footer {
   transition: .5s ease;
 }
 
-.container:hover .overlay {
+.container1:hover .overlay {
   bottom: 0;
   height: 100%;
 }
 
-.text {
+.text1 {
   color: white;
   font-size: 20px;
   position: absolute;
