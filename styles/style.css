@@ -55,7 +55,15 @@ footer {
 }
 /*Unordered list (Not finished) */
 
+/* text size of all text in sources class is reduced by 10%. */
+.sources, .sources p, .sources h6 {
+  font-size: .9em;
+}
 
+/* reduce margin spacing on h6 in sources class */
+.sources h6 {
+  margin: 1em 0;
+}
 
 /* Add a black background color to the top navigation */
 .topnav {
