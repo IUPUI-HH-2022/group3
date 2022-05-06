@@ -53,6 +53,11 @@ footer {
   background-color: rgb(216, 172, 27);
   padding: 1em;
 }
+
+/* reset margins of h4 in sidebar */
+.rightInfoColumn h4 {
+  margin: 0;
+}
 /*Unordered list (Not finished) */
 
 /* text size of all text in sources class is reduced by 10%. */
