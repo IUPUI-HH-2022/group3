@@ -225,10 +225,10 @@ padding: 10px;
     float: right;
     display: block;
   }
- .column {
+
+.column {
     width: 100%;
-    display: block;
-  }
+    display: block; 
 }
 
 .column1 {
