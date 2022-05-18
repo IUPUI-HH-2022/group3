@@ -120,6 +120,12 @@ footer {
   padding: 0 8px;
 }
 
+.column1 {
+margin: auto;
+width: 30%;
+padding: 10px;
+}
+
 .imgSizeLimiter {
   max-width: 100%;
 }
